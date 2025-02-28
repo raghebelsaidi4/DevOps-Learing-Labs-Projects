@@ -1,1 +1,1 @@
-# DevOps-Learing-Labs-Projects
+# DevOps-Learning-Labs-Projects
