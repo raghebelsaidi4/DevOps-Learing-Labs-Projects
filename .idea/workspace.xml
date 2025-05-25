@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceeae816-6c93-45e9-9277-bf8020fa1197" name="Changes" comment="" />
+    <list default="true" id="ceeae816-6c93-45e9-9277-bf8020fa1197" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Redhat-admin-1/ITI-Labs/lab-02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-01/Screenshot 2025-05-24 205424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-01/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/VerifyEmail" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/emailService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/github/pushCode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/local-exec.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/modules/network/implement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/modules/network/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/modules/network/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform/lab-02/workspace&amp;vars/main.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Empty File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,9 +69,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ToggleCodyToolWindowAfterMigration&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/raytheon/Desktop/spring-boot-microservices-course-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,7 +82,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\raytheon\Desktop\DevOps-Learing-Labs-Projects\Terraform\lab-02\modules\network" />
+      <recent name="C:\Users\raytheon\Desktop\DevOps-Learing-Labs-Projects\Terraform\lab-01" />
+      <recent name="C:\Users\raytheon\Desktop\DevOps-Learing-Labs-Projects\Terraform" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KafkaDemoApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="DevOps-Learning-Labs-Projects" />
       <method v="2">
@@ -73,12 +101,26 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <configuration name="KafkaDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="kafka-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibou.kafka.KafkaDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibou.wikimedia.producer.ProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
       </set>
     </attachedChunks>
   </component>
@@ -97,6 +139,21 @@
       <workItem from="1740965979748" duration="14000" />
       <workItem from="1740966000211" duration="44000" />
       <workItem from="1740966047636" duration="1672000" />
+      <workItem from="1741016412356" duration="83000" />
+      <workItem from="1741918636829" duration="4120000" />
+      <workItem from="1741990030757" duration="5000" />
+      <workItem from="1742182845619" duration="1811000" />
+      <workItem from="1742190913024" duration="147000" />
+      <workItem from="1742445921355" duration="150000" />
+      <workItem from="1742447594120" duration="2297000" />
+      <workItem from="1742536272735" duration="5000" />
+      <workItem from="1742825627996" duration="743000" />
+      <workItem from="1745588488935" duration="859000" />
+      <workItem from="1745590160932" duration="1563000" />
+      <workItem from="1745710994450" duration="11000" />
+      <workItem from="1748109309721" duration="4516000" />
+      <workItem from="1748191429180" duration="27000" />
+      <workItem from="1748193302852" duration="1640000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,6 @@
+# Push code to github
+git init
+git remote add origin https://github.com/your-username/your-repo.git
+git add .
+git commit -m "Initial Terraform infra setup"
+git push -u origin main
