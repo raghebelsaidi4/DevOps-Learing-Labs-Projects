@@ -71,5 +71,3 @@ Or alternatively:
 ```bash
 docker rm $(docker ps -aq)
 ```
----
-### problem 3
