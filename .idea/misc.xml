@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/pom.xml" />
         <option value="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/pom.xml" />
         <option value="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/Docker/docker_demo/docker_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Docker/docker_demo/pom.xml" />
       </list>
     </option>
   </component>

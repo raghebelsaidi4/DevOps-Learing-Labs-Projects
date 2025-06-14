@@ -121,5 +121,4 @@ man 5 passwd
 ```sh
  apropos passwd
 ```
-
 ---
