@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceeae816-6c93-45e9-9277-bf8020fa1197" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker/ITI/lab-01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Docker/docker_demo/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/main/java/com/alibou/wikimedia/consumer/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/main/java/com/ragheb/wikimedia/consumer/ConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/main/java/com/alibou/wikimedia/consumer/config/WikimediaTopicConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/main/java/com/ragheb/wikimedia/consumer/config/WikimediaTopicConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/main/java/com/alibou/wikimedia/consumer/consumer/WikimediaConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/main/java/com/ragheb/wikimedia/consumer/consumer/WikimediaConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/consumer/src/test/java/com/alibou/wikimedia/consumer/ConsumerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/KafkaDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/KafkaDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/config/KafkaTopicConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/config/KafkaTopicConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/consumer/KafkaConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/consumer/KafkaConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/payload/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/payload/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/producer/KafkaJsonProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/producer/KafkaJsonProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/producer/KafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/producer/KafkaProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/alibou/kafka/rest/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/main/java/com/ragheb/kafka/rest/MessageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/kafka-demo/src/test/java/com/alibou/kafka/KafkaDemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/alibou/wikimedia/producer/ProducerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/ragheb/wikimedia/producer/ProducerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/alibou/wikimedia/producer/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/ragheb/wikimedia/producer/config/WebClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/alibou/wikimedia/producer/config/WikimediaTopicConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/ragheb/wikimedia/producer/config/WikimediaTopicConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/alibou/wikimedia/producer/producer/WikimediaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/ragheb/wikimedia/producer/producer/WikimediaProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/alibou/wikimedia/producer/rest/WikimediaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/ragheb/wikimedia/producer/rest/WikimediaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/alibou/wikimedia/producer/stream/WikimediaStreamConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/main/java/com/ragheb/wikimedia/producer/stream/WikimediaStreamConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message-Queuing/apache-kafka/apache-kafka-with-spring-boot-demo/producer/src/test/java/com/alibou/wikimedia/producer/ProducerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redhat-admin-1/ITI-Labs/lab-01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Redhat-admin-1/ITI-Labs/lab-01/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +19,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Empty File" />
-        <option value="Class" />
         <option value="Dockerfile" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,7 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Application.executor": "Debug",
     "Application.DockerDemoApplication.executor": "Debug",
+    "Application.SpringBootDockerComposeDemoApplication.executor": "Debug",
+    "Docker.spring-boot-docker-compose-demo/compose.yaml: Compose Deployment.executor": "Run",
+    "JUnit.SpringBootDockerComposeDemoApplicationTests.shouldGetAllBookmarks.executor": "Run",
     "Maven.docker_demo [clean,install].executor": "Run",
     "Maven.docker_demo [clean].executor": "Run",
     "RunOnceActivity.ChatTagsLlmMigration": "true",
@@ -99,18 +80,36 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ragheb.demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DevOps-Learing-Labs-Projects\Docker\spring-boot-docker-compose-demo\src\test\java" />
+      <recent name="D:\DevOps-Learing-Labs-Projects\Docker\spring-boot-docker-compose-demo\src\test\main" />
       <recent name="C:\Users\raytheon\Desktop\DevOps-Learing-Labs-Projects\Terraform\lab-02\modules\network" />
       <recent name="C:\Users\raytheon\Desktop\DevOps-Learing-Labs-Projects\Terraform\lab-01" />
       <recent name="C:\Users\raytheon\Desktop\DevOps-Learing-Labs-Projects\Terraform" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DockerDemoApplication">
+  <component name="RunManager" selected="Docker.spring-boot-docker-compose-demo/compose.yaml: Compose Deployment">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ragheb.demo.Application" />
+      <module name="spring-boot-docker-compose-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ragheb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DockerDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ragheb.docker.DockerDemoApplication" />
       <module name="docker_demo" />
@@ -120,6 +119,35 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDockerComposeDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ragheb.demo.SpringBootDockerComposeDemoApplication" />
+      <module name="spring-boot-docker-compose-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ragheb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDockerComposeDemoApplicationTests.shouldGetAllBookmarks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-docker-compose-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ragheb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ragheb.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.ragheb.demo.SpringBootDockerComposeDemoApplicationTests" />
+      <option name="METHOD_NAME" value="shouldGetAllBookmarks" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,8 +177,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-boot-docker-compose-demo/compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="Docker/spring-boot-docker-compose-demo/compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.spring-boot-docker-compose-demo/compose.yaml: Compose Deployment" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.SpringBootDockerComposeDemoApplicationTests.shouldGetAllBookmarks" />
+        <item itemvalue="Application.SpringBootDockerComposeDemoApplication" />
         <item itemvalue="Application.DockerDemoApplication" />
       </list>
     </recent_temporary>

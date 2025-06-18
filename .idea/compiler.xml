@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="kafka-demo" />
         <module name="docker_demo" />
+        <module name="spring-boot-docker-compose-demo" />
         <module name="producer" />
         <module name="consumer" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="docker_demo" options="-parameters" />
       <module name="kafka-demo" options="-parameters" />
       <module name="producer" options="-parameters" />
+      <module name="spring-boot-docker-compose-demo" options="-parameters" />
     </option>
   </component>
 </project>
